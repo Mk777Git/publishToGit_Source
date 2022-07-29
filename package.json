@@ -1,6 +1,6 @@
 {
-  "name": "publishtogit_dest",
-  "version": "1.0.0",
+  "name": "publishtogit_source",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
