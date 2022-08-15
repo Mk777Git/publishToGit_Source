@@ -2,3 +2,7 @@
 // 1.0.3
 // so mal sehen was passiert, wenn man einen anderen Eintrag im Index hat und die Version neu setzt.
 // noch eine Änderung
+
+const mkApp = 'test';
+
+const egal = mkApp;
